@@ -1,0 +1,49 @@
+#,Sample_id,Model,Group,Organism,Type,Age,Sex,Tissue,Treatment,Recovery,Concentration,Nanodrop_A260/A230,Nanodrop_A260/A280,RIN,isCirrhotic,Regression,PP,CPA,FFS ,ALT,ALP,AST,CHOL,BA
+1,CDL_0002,CCL4,Cneg,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,Olive oil,0 weeks,702.4,1.869,2.114,8.3,no,negative,5.3,0.78,0.48,16,84,52,108,5.2
+2,CDL_0003,CCL4,Cneg,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,Olive oil,0 weeks,4852.2,2.261,2.162,8.2,no,negative,5.22,0.86,0.64,20,84,60,100,7.2
+3,CDL_0007,CCL4,Cneg,Mus musculus C57BL/6J,Wild type,20 weeks,Male,Liver,Olive oil,0 weeks,2812.7,2.277,2.123,6.8,no,negative,4.15,1.64,0.4,16,92,28,88,0.4
+4,CDL_0008,CCL4,Cneg,Mus musculus C57BL/6J,Wild type,20 weeks,Male,Liver,Olive oil,0 weeks,2643,2.26,2.161,8,no,negative,4.82,0.79,0.36,12,92,24,84,2.8
+5,CDL_0009,CCL4,Cneg,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,Olive oil,0 weeks,6214.7,2.266,2.116,7.1,no,negative,5.19,0.7,0.44,16,60,40,84,0.8
+6,CDL_0011,CCL4,Cneg,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,Olive oil,0 weeks,4815.3,2.261,2.166,7.6,no,negative,5.38,1.09,0.44,36,108,64,108,2.8
+7,CDL_0036,CCL4,Cpos,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,CCL4,0 weeks,3181.7,2.256,2.131,6.4,yes,positive,9.77,11.44,0.6,5216,116,3724,156,22
+8,CDL_0037,CCL4,Cpos,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,CCL4,0 weeks,4380.8,2.29,2.168,7.7,yes,positive,9.46,16.47,0.48,4452,112,3448,120,42.4
+9,CDL_0038,CCL4,Cpos,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,CCL4,0 weeks,5509.5,2.274,2.184,7.1,yes,positive,10.02,17.14,0.44,248,112,136,104,11.2
+10,CDL_0039,CCL4,Cpos,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,CCL4,0 weeks,2999.1,2.192,2.139,6.8,yes,positive,10.8,14.42,0.32,576,132,252,108,15.6
+11,CDL_0040,CCL4,Cpos,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,CCL4,0 weeks,4432.2,2.307,2.17,7,yes,positive,11.43,24.21,0.56,7204,124,7048,128,36
+12,CDL_0041,CCL4,Cpos,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,CCL4,0 weeks,2087.8,2.287,2.156,6.3,yes,positive,11.39,20.49,0.48,4892,148,4172,120,59.2
+13,CDL_0044,CCL4,R1,Mus musculus C57BL/6J,Wild type,23 weeks,Male,Liver,CCL4,1 week,4111,2.218,2.161,8,yes,regression,9.67,10.56,0.44,32,184,60,80,29.2
+14,CDL_0045,CCL4,R1,Mus musculus C57BL/6J,Wild type,23 weeks,Male,Liver,CCL4,1 week,5090.1,2.262,2.156,7.8,yes,regression,8.46,15.39,0.36,36,156,56,88,21.6
+15,CDL_0046,CCL4,R1,Mus musculus C57BL/6J,Wild type,23 weeks,Male,Liver,CCL4,1 week,3259.2,2.247,2.142,8.4,yes,regression,7.87,14.96,0.36,32,164,52,88,12
+16,CDL_0048,CCL4,R1,Mus musculus C57BL/6J,Wild type,23 weeks,Male,Liver,CCL4,1 week,4289.3,2.254,2.159,7.4,yes,regression,7.15,7.86,0.4,36,152,56,80,8.8
+17,CDL_0049,CCL4,R1,Mus musculus C57BL/6J,Wild type,23 weeks,Male,Liver,CCL4,1 week,4238.7,2.27,2.163,8.1,yes,regression,8.75,9.52,0.4,40,120,72,64,18.4
+18,CDL_0050,CCL4,R1,Mus musculus C57BL/6J,Wild type,23 weeks,Male,Liver,CCL4,1 week,2824.5,2.291,2.142,8.1,yes,regression,8.02,9.96,0.32,32,140,140,92,5.2
+19,CDL_0052,CCL4,R2,Mus musculus C57BL/6J,Wild type,24 weeks,Male,Liver,CCL4,2 weeks,909.3,2.244,2.118,7.4,yes,regression,8.4,7.17,0.48,40,156,56,112,8.4
+20,CDL_0054,CCL4,R2,Mus musculus C57BL/6J,Wild type,24 weeks,Male,Liver,CCL4,2 weeks,3858.3,2.253,2.137,7.9,yes,regression,8.02,3.7,0.36,28,132,48,88,5.6
+21,CDL_0055,CCL4,R2,Mus musculus C57BL/6J,Wild type,24 weeks,Male,Liver,CCL4,2 weeks,97.8,1.964,2.109,6.9,yes,regression,9.39,7.36,0.28,32,164,44,88,18.8
+22,CDL_0056,CCL4,R2,Mus musculus C57BL/6J,Wild type,24 weeks,Male,Liver,CCL4,2 weeks,2072,2.153,2.297,7.4,yes,regression,7.23,4.62,0.36,40,192,56,80,30.4
+23,CDL_0057,CCL4,R2,Mus musculus C57BL/6J,Wild type,24 weeks,Male,Liver,CCL4,2 weeks,5141,2.214,2.171,7.3,yes,regression,8.33,5.59,0.36,36,148,60,84,42.8
+24,CDL_0058,CCL4,R2,Mus musculus C57BL/6J,Wild type,24 weeks,Male,Liver,CCL4,2 weeks,5525.8,2.269,2.176,7.1,yes,regression,8.14,4.03,0.48,36,200,56,100,18
+25,CDL_0084,TAA,Cneg,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,NaCl,0 weeks,1857.7,2.3,2.134,8,no,negative,5.05,0.77,0.18,4,15,7,28,0.8
+26,CDL_0086,TAA,Cneg,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,NaCl,0 weeks,1708.1,2.275,2.135,8.2,no,negative,4.77,0.97,0.18,4,16,9,26,0.9
+27,CDL_0088,TAA,Cneg,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,NaCl,0 weeks,2202.3,2.299,2.142,7.9,no,negative,5.9,0.77,0.17,6,13,15,26,0.7
+28,CDL_0089,TAA,Cneg,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,NaCl,0 weeks,2462.9,2.285,2.111,8,no,negative,5.71,0.72,0.16,3,13,10,25,0.5
+29,CDL_0090,TAA,Cneg,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,NaCl,0 weeks,1695.6,2.294,2.129,7.9,no,negative,5.42,0.66,0.14,3,20,6,30,0.4
+30,CDL_0091,TAA,Cneg,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,NaCl,0 weeks,1517.6,2.234,2.143,8,no,negative,5.95,0.76,0.17,3,15,8,27,0.7
+31,CDL_0116,TAA,Cpos,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,TAA,0 weeks,2156.1,2.31,2.152,7.9,yes,positive,7.09,3.77,0.13,40,39,21,17,4.1
+32,CDL_0117,TAA,Cpos,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,TAA,0 weeks,2211.1,2.275,2.154,7.7,yes,positive,6.9,4.24,0.08,62,50,32,20,6.4
+33,CDL_0118,TAA,Cpos,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,TAA,0 weeks,2084.6,2.287,2.149,7.9,yes,positive,7.31,3.83,0.1,59,36,38,20,5.3
+34,CDL_0120,TAA,Cpos,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,TAA,0 weeks,2389.2,2.285,2.165,8.1,yes,positive,8.33,4.47,0.1,31,34,35,20,5.6
+35,CDL_0121,TAA,Cpos,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,TAA,0 weeks,2479,2.219,2.169,7.7,yes,positive,8.17,4.02,0.09,49,38,38,18,6.1
+36,CDL_0123,TAA,Cpos,Mus musculus C57BL/6J,Wild type,22 weeks,Male,Liver,TAA,0 weeks,2583.7,2.262,2.104,8.5,yes,positive,7.63,3.67,0.11,42,34,33,22,11.3
+37,CDL_0124,TAA,R1,Mus musculus C57BL/6J,Wild type,23 weeks,Male,Liver,TAA,1 week,3992.9,2.227,2.154,7.4,yes,regression,7.32,3.64,0.12,11,31,13,22,1.3
+38,CDL_0125,TAA,R1,Mus musculus C57BL/6J,Wild type,23 weeks,Male,Liver,TAA,1 week,1384.8,2.23,2.138,7.2,yes,regression,7.51,2.89,0.08,10,26,11,21,1
+39,CDL_0126,TAA,R1,Mus musculus C57BL/6J,Wild type,23 weeks,Male,Liver,TAA,1 week,1293.6,2.293,2.122,6.7,yes,regression,7.24,2.54,0.09,18,30,14,23,1.5
+40,CDL_0127,TAA,R1,Mus musculus C57BL/6J,Wild type,23 weeks,Male,Liver,TAA,1 week,1222.1,2.286,2.127,6.7,yes,regression,6.43,3.04,0.08,21,29,15,23,1.2
+41,CDL_0128,TAA,R1,Mus musculus C57BL/6J,Wild type,23 weeks,Male,Liver,TAA,1 week,938.8,2.199,2.126,8,yes,regression,7.03,3.71,0.12,5,29,7,23,1.2
+42,CDL_0131,TAA,R1,Mus musculus C57BL/6J,Wild type,23 weeks,Male,Liver,TAA,1 week,1050.6,2.204,2.13,7.4,yes,regression,7.95,3.51,0.1,7,28,10,23,1.4
+43,CDL_0132,TAA,R2,Mus musculus C57BL/6J,Wild type,24 weeks,Male,Liver,TAA,2 weeks,1131.9,2.178,2.138,8.1,yes,regression,6.06,2.86,0.16,6,24,10,23,1.4
+44,CDL_0133,TAA,R2,Mus musculus C57BL/6J,Wild type,24 weeks,Male,Liver,TAA,2 weeks,1396.6,2.22,2.132,7.1,yes,regression,6.13,2.41,0.1,7,27,9,25,1
+45,CDL_0134,TAA,R2,Mus musculus C57BL/6J,Wild type,24 weeks,Male,Liver,TAA,2 weeks,1718.4,2.238,2.15,7,yes,regression,5.98,3.03,0.14,5,34,9,23,0.7
+46,CDL_0135,TAA,R2,Mus musculus C57BL/6J,Wild type,24 weeks,Male,Liver,TAA,2 weeks,1640.3,2.263,2.155,7,yes,regression,6.22,3.03,0.13,4,30,9,23,0.7
+47,CDL_0137,TAA,R2,Mus musculus C57BL/6J,Wild type,24 weeks,Male,Liver,TAA,2 weeks,1450.1,2.279,2.145,7.1,yes,regression,6.7,2.68,0.14,2,28,8,23,1
+48,CDL_0138,TAA,R2,Mus musculus C57BL/6J,Wild type,24 weeks,Male,Liver,TAA,2 weeks,1818.3,2.283,2.151,6.7,yes,regression,4.9,2.65,0.1,6,29,11,26,1.7
